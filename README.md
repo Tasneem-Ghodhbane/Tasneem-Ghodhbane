@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tasneem Ghodhbane</h1>
 <h3 align="center">A passionate Fullstack developer from Tunisia</h3>
 
-- 🔭 I’m currently working on **Visualyze**
+- 🔭 I’m currently working on **Microview**
 
-- 🌱 I’m currently learning **Angular, SpringBoot, Neo4j**
+- 🌱 I’m currently learning **Grafana stack, SpringBoot, Opentelemetary, docker**
 
 - 📫 How to reach me **tasneem.ghodhbane@gmail.com**
 
